@@ -12,33 +12,43 @@
 
 💻 This Github portfolio combines both academic and personal experience, showcasing work in analytics, ML research, business strategy, and projects in data science/engineering.
 
- 🧠 About My Degree (DTSCE_BS)
+---
+
+ ##🧠 About My Degree (DTSCE_BS)
 Penn State’s **Computational Data Sciences (DTSCE_BS)** program, exclusive to the College of Engineering, combines deep training in computer science, algorithms, and systems with a strong emphasis on mathematics, statistics, and analytics on dynamic datasets.
 
 I’ve completed coursework in:
 - Data Structures & Algorithms
+- Database Management
 - Machine Learning & AI
+- Probability Theory
 - Data Engineering Design
-- Deep Learning, Linear Algebra, and Mathematical Statistics
-- SQL, Python, Java, OOP, and Technical Writing
+- Data Ethics & Governance 
+- Deep Learning, Linear Algebra, Calculus, and Mathematical Statistics
+- SQL, Python, Java, OOP, and Technical Writing & Documentation
 
-With hands-on exposure to topics like:
+With hands-on exposure and training to topics like:
 
-- ETL pipelines, data cleaning, and statistical modeling  
-- Supervised/semi/unsupervised learning  
-- Model evaluation, classification, and ensemble methods  
-- Feature engineering, regularization, and deep learning architectures (DNN, RNN, ANN)  
-- NLP, sampling techniques, and reinforcement learning
+-**Data Pipelines & Modelings**: ETL, Statistical modeling, EDA, Regularization, feature engineering
+-**Machine Learning**: Model Evaluation, Supervised/Semi/Unsupervised Learning, Classification, Ensemble Methods
+-**Model Evaluation**: Model Performance, Sampling Methods, Bias/Fairness, Interpretability
+**Business Intelligence & Analytics**: KPI Tracking, Dashboarding (Excel, Power BI), Financial Modeling, Trend Analysis, Reporting
+-**Deep Learning**: ANN's, DNN's, RNN's, Gradients, Reinforcement Learning 
+-**Domains**: Natural Language Processing, Climate-Aware Learning, Geospatial Analytics
+
+--- 
+##🔧 Core Skills & Tools: 
+
+-**Languages & Libraries**: 
+Python, SQL(MySQL, PostgreSQL, SQLite, MongoDB) , R, Java, Typescript, JavaScript, Bash/ShellScripting, HTML/CSS, Django
+Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Seaborn, Matplotlib, HDF5, Django (basic), h5py, Pillow, PySpark
+
+**Tools & Frameworks:**
+Microsoft Fabric + Office (Excel, Power BI), React, Next.js, Tableau, Django, Docker, Git
+VS Code, R-Studio, PowerShell, Micrsoft Azure, NetBeans, Kaggle, Apache Spark, Juypter Notebook, GCP
+
 
 During my most recent semester, I managed an 18-credit course load while also joining a student-led research group (**ML @ PSU**). While this limited my GitHub activity, I’m currently revitalizing this space through new personal projects and continued learning.
-
-
-🔧 Core Skills & Tools: 
--**Languages**: Python, SQL(MySQL, PostgreSQL, SQLite, MongoDB) , R, Java, Typescript, JavaScript, Bash/ShellScripting, HTML/CSS, Django
-**Libraries**: Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Seaborn, Matplotlib, HDF5, Django (basic), h5py, Pillow, PySpark
--**Frameworks**: Microsoft Fabric + Office (Excel, Power BI), React, Next.js, Tableau, Django
--**Tools**: VS Code, R-Studio, PowerShell, Azure Devops, GCP, Git, Docker, Juypter Notebook
-
 
 ## 💼 Relevant Experience
 
@@ -52,19 +62,26 @@ During my most recent semester, I managed an 18-credit course load while also jo
 - Maintained inventory systems and coordinated logistics  
 - Handled large volumes of order data using Excel & manual logs
 
-  ## 🔍 Currently Exploring
+##🌱 What I'm Working On
+
+--**Expanding Wildfire Prediction Research:** Building upon my work with an enhanced U-Net + Convolutional LSTM Architecture for more accurate California Wildfire Forecasting. Currently refining multimodal pipeline through learning how to produce more robust ground truth labeling, imrpoved evaluation metrics (beyond precision and recall as it is not a conclusive definition towards what it means to be accurate), and investigating feature sensitivity to spatial uncertainity. This work aims to improve model interpretability and operational readiness for real-world deployment.
+
+-**Portfolio Website:** Creating a static website from scratch with HTML/CSS/JS to showcase projects, experienced and skills. 
+
+
+🔍 Currently Exploring
+- Real-world deployments for climate-aware AI
+- Automizing Financial Analysis (on 10-Q/K reports) with the help of Artificial Intelligence
 - Microsoft Fabric and Synapse for end-to-end BI workflows  
 - Snowflake schema modeling  
-- Real-world deployments for climate-aware AI  
-
-
 
 - ⚡ Fun fact: I love geography 🌎
-
+  
+## 🧠 Open to roles in: Data Science, Analytics, Engineering Business Intelligence, Finance, Machine Learning, or Applied Research  
 
 ## 📫 Let's Connect  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/aubayazzarouk)  
 - 📧 [aia5754@psu.edu](mailto:aia5754@psu.edu)  
-- 🧠 Open to roles in: Data Science, Analytics, Engineering Business Intelligence, Finance, Machine Learning, or Applied Research  
+
 
 
