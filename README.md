@@ -37,13 +37,13 @@ With hands-on exposure and training to topics like:
 -**Domains**: Natural Language Processing, Climate-Aware Learning, Geospatial Analytics
 
 --- 
-##🔧 Core Skills & Tools: 
+## 🔧 Core Skills & Tools: 
 
 -**Languages & Libraries**: 
 Python, SQL(MySQL, PostgreSQL, SQLite, MongoDB) , R, Java, Typescript, JavaScript, Bash/ShellScripting, HTML/CSS, Django
 Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Seaborn, Matplotlib, HDF5, Django (basic), h5py, Pillow, PySpark
 
-**Tools & Frameworks:**
+-**Tools & Frameworks:**
 Microsoft Fabric + Office (Excel, Power BI), React, Next.js, Tableau, Django, Docker, Git
 VS Code, R-Studio, PowerShell, Micrsoft Azure, NetBeans, Kaggle, Apache Spark, Juypter Notebook, GCP
 
