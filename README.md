@@ -1,5 +1,6 @@
-## Hi there 👋 I'm Aubay Azzarouk
+##Welcome To My GitHub Page!
 
+Hi there 👋 I'm Aubay Azzarouk
 🎓 **Computational Data Sciences Major | Mathematics Minor** at Penn state University - College of Engineering
 
 😄 I’m passionate, curious, and results-driven, with a strong interest in using data science to tackle real-world challenges and deliver meaningful, practical solutions.
