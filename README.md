@@ -1,7 +1,7 @@
 ## Welcome To My GitHub Page!
 
 👋Hi there, I'm Aubay Azzarouk
-
+---
 ## 📋 Background
 
 **🎓 Current Role:** Senior at Penn State University - College of Engineering, studying Computational Data Science with a minor in Mathematics.
@@ -59,7 +59,7 @@ Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Seaborn, Matplotlib, HDF5, Dja
 Microsoft Fabric + Office (Excel, Power BI), React, Next.js, Tableau, Django, Docker, Git
 VS Code, R-Studio, PowerShell, Micrsoft Azure, NetBeans, Kaggle, Apache Spark, Juypter Notebook, GCP
 
-
+---
 ## 💼 Relevant Experience
 
 **Sales & Business Operations Intern – STC Direct (2024)**  
@@ -70,7 +70,7 @@ VS Code, R-Studio, PowerShell, Micrsoft Azure, NetBeans, Kaggle, Apache Spark, J
 **Office & Inventory Assistant – MBR Marketing Inc. (2023)**  
 - Maintained inventory systems and coordinated logistics  
 - Handled large volumes of order data using Excel & manual logs
-
+---
 ## 🌱 What I'm Working On
 
 - **Expanding Wildfire Prediction Research:** Building upon my work with an enhanced U-Net + Convolutional LSTM Architecture for more accurate California Wildfire Forecasting. Currently refining multimodal pipeline through learning how to produce more robust ground truth labeling, imrpoved evaluation metrics (beyond precision and recall as it is not a conclusive definition towards what it means to be accurate), and investigating feature sensitivity to spatial uncertainity. This work aims to improve model interpretability and operational readiness for real-world deployment.
@@ -82,7 +82,7 @@ VS Code, R-Studio, PowerShell, Micrsoft Azure, NetBeans, Kaggle, Apache Spark, J
 - Automizing Financial Analysis (on 10-Q/K reports) with the help of Artificial Intelligence
 - Microsoft Fabric and Synapse for end-to-end BI workflows  
 - Snowflake schema modeling  
-  
+---
 ## 🧠 Open to roles in: Data Science, Analytics, Engineering Business Intelligence, Finance, Machine Learning, or Applied Research  
 
   📫 Let's Connect  
