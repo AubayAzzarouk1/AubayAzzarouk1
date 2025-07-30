@@ -30,10 +30,15 @@ I’ve completed coursework in:
 With hands-on exposure and training to topics like:
 
 -**Data Pipelines & Modelings**: ETL, Statistical modeling, EDA, Regularization, feature engineering
+
 -**Machine Learning**: Model Evaluation, Supervised/Semi/Unsupervised Learning, Classification, Ensemble Methods
+
 -**Model Evaluation**: Model Performance, Sampling Methods, Bias/Fairness, Interpretability
+
 **Business Intelligence & Analytics**: KPI Tracking, Dashboarding (Excel, Power BI), Financial Modeling, Trend Analysis, Reporting
+
 -**Deep Learning**: ANN's, DNN's, RNN's, Gradients, Reinforcement Learning 
+
 -**Domains**: Natural Language Processing, Climate-Aware Learning, Geospatial Analytics
 
 --- 
