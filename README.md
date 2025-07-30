@@ -42,7 +42,7 @@ With hands-on exposure and training to topics like:
 - **Deep Learning**: ANN's, DNN's, RNN's, Gradients, Reinforcement Learning 
 
 - **Domains**: Natural Language Processing, Climate-Aware Learning, Geospatial Analytics
-
+  During my most recent semester, I managed an 18-credit course load while also joining a student-led research group (**ML @ PSU**). While this limited my GitHub activity, I’m currently revitalizing this space through new personal projects and continued learning.
 --- 
 ## 🔧 Core Skills & Tools: 
 
@@ -54,7 +54,6 @@ Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Seaborn, Matplotlib, HDF5, Dja
 Microsoft Fabric + Office (Excel, Power BI), React, Next.js, Tableau, Django, Docker, Git
 VS Code, R-Studio, PowerShell, Micrsoft Azure, NetBeans, Kaggle, Apache Spark, Juypter Notebook, GCP
 
- During my most recent semester, I managed an 18-credit course load while also joining a student-led research group (**ML @ PSU**). While this limited my GitHub activity, I’m currently revitalizing this space through new personal projects and continued learning.
 
 ## 💼 Relevant Experience
 
