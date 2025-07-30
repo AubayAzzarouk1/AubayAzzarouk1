@@ -1,8 +1,8 @@
 ## Welcome To My GitHub Page!
+---
 
 👋Hi there, I'm Aubay Azzarouk
 
----
 ## 📋 Background
 
 **🎓 Current Role:** Senior at Penn State University - College of Engineering, studying Computational Data Science with a minor in Mathematics.
