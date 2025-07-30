@@ -35,7 +35,7 @@ With hands-on exposure and training to topics like:
 
 -**Model Evaluation**: Model Performance, Sampling Methods, Bias/Fairness, Interpretability
 
-**Business Intelligence & Analytics**: KPI Tracking, Dashboarding (Excel, Power BI), Financial Modeling, Trend Analysis, Reporting
+-**Business Intelligence & Analytics**: KPI Tracking, Dashboarding (Excel, Power BI), Financial Modeling, Trend Analysis, Reporting
 
 -**Deep Learning**: ANN's, DNN's, RNN's, Gradients, Reinforcement Learning 
 
