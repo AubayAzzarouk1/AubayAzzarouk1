@@ -4,7 +4,7 @@
 
 ## 📋 Background
 
-**🎓 Current Role:** Senior at Penn State University - College of Engineering, studying Computational Data Science with a Minor in Mathematics
+**🎓 Current Role:** Senior at Penn State University - College of Engineering, studying Computational Data Science with a minor in Mathematics
   
 😄 I’m passionate, curious, and results-driven, with a strong interest in using data science to tackle real-world challenges and deliver meaningful, practical solutions.
 
