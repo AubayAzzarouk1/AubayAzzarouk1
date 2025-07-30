@@ -54,7 +54,7 @@ Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Seaborn, Matplotlib, HDF5, Dja
 Microsoft Fabric + Office (Excel, Power BI), React, Next.js, Tableau, Django, Docker, Git
 VS Code, R-Studio, PowerShell, Micrsoft Azure, NetBeans, Kaggle, Apache Spark, Juypter Notebook, GCP
 
-During my most recent semester, I managed an 18-credit course load while also joining a student-led research group (**ML @ PSU**). While this limited my GitHub activity, I’m currently revitalizing this space through new personal projects and continued learning.
+ During my most recent semester, I managed an 18-credit course load while also joining a student-led research group (**ML @ PSU**). While this limited my GitHub activity, I’m currently revitalizing this space through new personal projects and continued learning.
 
 ## 💼 Relevant Experience
 
@@ -81,7 +81,7 @@ During my most recent semester, I managed an 18-credit course load while also jo
   
 ## 🧠 Open to roles in: Data Science, Analytics, Engineering Business Intelligence, Finance, Machine Learning, or Applied Research  
 
-## 📫 Let's Connect  
+  📫 Let's Connect  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/aubayazzarouk)  
 - 📧 [aia5754@psu.edu](mailto:aia5754@psu.edu)  
 
