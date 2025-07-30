@@ -29,26 +29,26 @@ I’ve completed coursework in:
 
 With hands-on exposure and training to topics like:
 
--**Data Pipelines & Modelings**: ETL, Statistical modeling, EDA, Regularization, feature engineering
+- **Data Pipelines & Modelings**: ETL, Statistical modeling, EDA, Regularization, feature engineering
 
--**Machine Learning**: Model Evaluation, Supervised/Semi/Unsupervised Learning, Classification, Ensemble Methods
+- **Machine Learning**: Model Evaluation, Supervised/Semi/Unsupervised Learning, Classification, Ensemble Methods
 
--**Model Evaluation**: Model Performance, Sampling Methods, Bias/Fairness, Interpretability
+- **Model Evaluation**: Model Performance, Sampling Methods, Bias/Fairness, Interpretability
 
--**Business Intelligence & Analytics**: KPI Tracking, Dashboarding (Excel, Power BI), Financial Modeling, Trend Analysis, Reporting
+- **Business Intelligence & Analytics**: KPI Tracking, Dashboarding (Excel, Power BI), Financial Modeling, Trend Analysis, Reporting
 
--**Deep Learning**: ANN's, DNN's, RNN's, Gradients, Reinforcement Learning 
+- **Deep Learning**: ANN's, DNN's, RNN's, Gradients, Reinforcement Learning 
 
--**Domains**: Natural Language Processing, Climate-Aware Learning, Geospatial Analytics
+- **Domains**: Natural Language Processing, Climate-Aware Learning, Geospatial Analytics
 
 --- 
 ## 🔧 Core Skills & Tools: 
 
--**Languages & Libraries**: 
+- **Languages & Libraries**: 
 Python, SQL(MySQL, PostgreSQL, SQLite, MongoDB) , R, Java, Typescript, JavaScript, Bash/ShellScripting, HTML/CSS, Django
 Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Seaborn, Matplotlib, HDF5, Django (basic), h5py, Pillow, PySpark
 
--**Tools & Frameworks:**
+- **Tools & Frameworks:**
 Microsoft Fabric + Office (Excel, Power BI), React, Next.js, Tableau, Django, Docker, Git
 VS Code, R-Studio, PowerShell, Micrsoft Azure, NetBeans, Kaggle, Apache Spark, Juypter Notebook, GCP
 
@@ -69,9 +69,9 @@ During my most recent semester, I managed an 18-credit course load while also jo
 
 ## 🌱 What I'm Working On
 
---**Expanding Wildfire Prediction Research:** Building upon my work with an enhanced U-Net + Convolutional LSTM Architecture for more accurate California Wildfire Forecasting. Currently refining multimodal pipeline through learning how to produce more robust ground truth labeling, imrpoved evaluation metrics (beyond precision and recall as it is not a conclusive definition towards what it means to be accurate), and investigating feature sensitivity to spatial uncertainity. This work aims to improve model interpretability and operational readiness for real-world deployment.
+- **Expanding Wildfire Prediction Research:** Building upon my work with an enhanced U-Net + Convolutional LSTM Architecture for more accurate California Wildfire Forecasting. Currently refining multimodal pipeline through learning how to produce more robust ground truth labeling, imrpoved evaluation metrics (beyond precision and recall as it is not a conclusive definition towards what it means to be accurate), and investigating feature sensitivity to spatial uncertainity. This work aims to improve model interpretability and operational readiness for real-world deployment.
 
--**Portfolio Website:** Creating a static website from scratch with HTML/CSS/JS to showcase projects, experienced and skills. 
+- **Portfolio Website:** Creating a static website from scratch with HTML/CSS/JS to showcase projects, experienced and skills. 
 
 
 🔍 **Currently Exploring**
