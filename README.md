@@ -3,6 +3,9 @@
 
 👋Hi there, I'm Aubay Azzarouk
 
+<img src="https://raw.githubusercontent.com/AubayAzzarouk1/AubayAzzarouk1/main/GitHub_giphy.gif" alt="Coding GIF" width="100%" />
+
+
 ## 📋 Background
 
 **🎓 Current Role:** Senior at Penn State University - College of Engineering, studying Computational Data Science with a minor in Mathematics.
