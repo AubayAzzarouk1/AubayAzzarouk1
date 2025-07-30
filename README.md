@@ -43,7 +43,7 @@ With hands-on exposure and training to topics like:
 
 - **Domains**: Natural Language Processing, Climate-Aware Learning, Geospatial Analytics
 
-During my most recent semester, I managed an 18-credit course load while also joining a student-led research group (**ML @ PSU**). While this limited my GitHub activity, I’m currently revitalizing this space through new personal projects and continued learning.
+  During my most recent semester, I managed an 18-credit course load while also joining a student-led research group (**ML @ PSU**). While this limited my GitHub activity, I’m currently revitalizing this space through new personal projects and continued learning.
 --- 
 ## 🔧 Core Skills & Tools: 
 
