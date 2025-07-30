@@ -10,6 +10,8 @@
 
 🌱 My interests span business intelligence, artificial intelligence, climate-aware analytics, and startup ecosystems.
 
+⚡ Fun fact: I love geography 🌎
+
 💻 This Github portfolio combines both academic and personal experience, showcasing work in analytics, ML research, business strategy, and projects in data science/engineering.
 
 ---
@@ -52,7 +54,6 @@ Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Seaborn, Matplotlib, HDF5, Dja
 Microsoft Fabric + Office (Excel, Power BI), React, Next.js, Tableau, Django, Docker, Git
 VS Code, R-Studio, PowerShell, Micrsoft Azure, NetBeans, Kaggle, Apache Spark, Juypter Notebook, GCP
 
-
 During my most recent semester, I managed an 18-credit course load while also joining a student-led research group (**ML @ PSU**). While this limited my GitHub activity, I’m currently revitalizing this space through new personal projects and continued learning.
 
 ## 💼 Relevant Experience
@@ -61,7 +62,6 @@ During my most recent semester, I managed an 18-credit course load while also jo
 - Built internal Excel dashboards tracking campaign metrics across PA/NJ/DE  
 - Synthesized insights from 250+ client touchpoints weekly  
 - Collaborated with BI team on regional sales optimization
-
 
 **Office & Inventory Assistant – MBR Marketing Inc. (2023)**  
 - Maintained inventory systems and coordinated logistics  
@@ -73,14 +73,11 @@ During my most recent semester, I managed an 18-credit course load while also jo
 
 - **Portfolio Website:** Creating a static website from scratch with HTML/CSS/JS to showcase projects, experienced and skills. 
 
-
 🔍 **Currently Exploring**
 - Real-world deployments for climate-aware AI
 - Automizing Financial Analysis (on 10-Q/K reports) with the help of Artificial Intelligence
 - Microsoft Fabric and Synapse for end-to-end BI workflows  
 - Snowflake schema modeling  
-
-⚡ **Fun fact: I love geography** 🌎
   
 ## 🧠 Open to roles in: Data Science, Analytics, Engineering Business Intelligence, Finance, Machine Learning, or Applied Research  
 
