@@ -80,7 +80,7 @@ During my most recent semester, I managed an 18-credit course load while also jo
 - Microsoft Fabric and Synapse for end-to-end BI workflows  
 - Snowflake schema modeling  
 
-- ⚡ **Fun fact: I love geography** 🌎
+⚡ **Fun fact: I love geography** 🌎
   
 ## 🧠 Open to roles in: Data Science, Analytics, Engineering Business Intelligence, Finance, Machine Learning, or Applied Research  
 
