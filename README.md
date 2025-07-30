@@ -1,6 +1,6 @@
-## Welcome To My GitHub Page
+## Welcome To My GitHub Page!
 
-👋Hi there, I'm Aubay Azzarouk!
+👋Hi there, I'm Aubay Azzarouk
 
 ---
 ## 📋 Background
