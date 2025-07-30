@@ -14,7 +14,7 @@
 
 ---
 
- ##🧠 About My Degree (DTSCE_BS)
+ ## 🧠 About My Degree (DTSCE_BS)
 Penn State’s **Computational Data Sciences (DTSCE_BS)** program, exclusive to the College of Engineering, combines deep training in computer science, algorithms, and systems with a strong emphasis on mathematics, statistics, and analytics on dynamic datasets.
 
 I’ve completed coursework in:
@@ -67,20 +67,20 @@ During my most recent semester, I managed an 18-credit course load while also jo
 - Maintained inventory systems and coordinated logistics  
 - Handled large volumes of order data using Excel & manual logs
 
-##🌱 What I'm Working On
+## 🌱 What I'm Working On
 
 --**Expanding Wildfire Prediction Research:** Building upon my work with an enhanced U-Net + Convolutional LSTM Architecture for more accurate California Wildfire Forecasting. Currently refining multimodal pipeline through learning how to produce more robust ground truth labeling, imrpoved evaluation metrics (beyond precision and recall as it is not a conclusive definition towards what it means to be accurate), and investigating feature sensitivity to spatial uncertainity. This work aims to improve model interpretability and operational readiness for real-world deployment.
 
 -**Portfolio Website:** Creating a static website from scratch with HTML/CSS/JS to showcase projects, experienced and skills. 
 
 
-🔍 Currently Exploring
+🔍 **Currently Exploring**
 - Real-world deployments for climate-aware AI
 - Automizing Financial Analysis (on 10-Q/K reports) with the help of Artificial Intelligence
 - Microsoft Fabric and Synapse for end-to-end BI workflows  
 - Snowflake schema modeling  
 
-- ⚡ Fun fact: I love geography 🌎
+- ⚡ **Fun fact: I love geography** 🌎
   
 ## 🧠 Open to roles in: Data Science, Analytics, Engineering Business Intelligence, Finance, Machine Learning, or Applied Research  
 
